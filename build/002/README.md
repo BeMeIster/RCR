@@ -1,15 +1,10 @@
-
-![](RCR_230913c_-_Radiant_Community_Report_html_4197141c4ee7dc0d.gif)  
-
-  
-
 # RADIANT COMMUNITY REPORT
 
 ### Updated on the 13th of September 2023
 
-![](RCR_230913c_-_Radiant_Community_Report_html_ed17ddd8527b96a5.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_ed17ddd8527b96a5.png)
 
-![FkQ2be6acAALdfs.jpg](RCR_230913c_-_Radiant_Community_Report_html_50889ad294d66837.gif) 
+![FkQ2be6acAALdfs.jpg](images/RCR_230913c_-_Radiant_Community_Report_html_50889ad294d66837.gif) 
 
 Dear All, the community of Radiant presents you the R.C.R. (Radiant Community Report): a brief summary of the project features, the achievements to date, what is to come and what can be expected in the short to mid-term. Over time this paper will be enhanced, with added sections, FAQ, links, guides and insights over Radiant (RXD). In this update you will finally find the community Roadmap, that will cover the next 2 years, until the second halving in April 2026, an entire mining section and much more. Radiant is a free, layer 1**(\*)** & GPU mineable, open source peer-to-peer proof of work (SHA512-256D) network to read and write decentralized applications. Not meant as investment, precisely as Bitcoin itself. This document, in an ever-evolving “Work in progress” state, will be updated constantly from the Radiant Community so, given its open access to everyone, please feel free to contribute.
 
@@ -32,7 +27,7 @@ Please also have a look at the official “Radiant4people” Technical WIKI and 
 
 [_https://radiant4people.com/_](https://radiant4people.com/)
 
-![Shape1](RCR_230913c_-_Radiant_Community_Report_html_ce93e9f899390bde.gif)
+![Shape1](images/RCR_230913c_-_Radiant_Community_Report_html_ce93e9f899390bde.gif)
 
 EXPLORER LINK: [https://radiantexplorer.com/](https://radiantexplorer.com/)
 
@@ -40,7 +35,7 @@ GENESIS BLOCK: [https://radiantexplorer.com/block/0000000065d8ed5d8be28d6876b3ff
 
 _The Radiant Developers, August 11, 2022 -_ [_https://radiantblockchain.org/_](https://radiantblockchain.org/)
 
-![summary.JPG](RCR_230913c_-_Radiant_Community_Report_html_71607c7398b60351.gif)
+![summary.JPG](images/RCR_230913c_-_Radiant_Community_Report_html_71607c7398b60351.gif)
 
 [WHERE TO BUY ? - CLICK ME](#zz61BUY)
 
@@ -354,13 +349,13 @@ Radiant is Turing Complete but it doesn't have loops. Loops have to be unrolled 
 
 [https://en.wikipedia.org/wiki/Loop\_unrolling](https://en.wikipedia.org/wiki/Loop_unrolling)
 
-![Shape2](RCR_230913c_-_Radiant_Community_Report_html_2af509d23f527111.gif)
+![Shape2](images/RCR_230913c_-_Radiant_Community_Report_html_2af509d23f527111.gif)
 
 Genesis Hash: 0000000065d8ed5d8be28d6876b3ffb660ac2a6c0ca59e437e1f7a6f4e003fb4
 
 [https://explorer.radiant.ovh/](https://explorer.radiant.ovh/)
 
-![](RCR_230913c_-_Radiant_Community_Report_html_2e6eb6cbd452ab41.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_2e6eb6cbd452ab41.png)
 
 _Radiant embodies what one would expect from Bitcoin itself. There is no central authority, no venture capitalists ready to dump on your valuable holdings, no false promises, and quite simply: CODE. This code is designed to be used, shared, and improved, forming the basis on which everyone can build exceptional personal or company projects, thanks to its scalability and revolutionary intrinsic potential._
 
@@ -374,12 +369,9 @@ Among the top 10 coins on CoinMarketCap, 80% are premined: Ethereum, Ripple, Car
 
 _Radiant is us, Radiant is you; a survivor in a sea of sharks, a beacon of light in the shadows, and a shepherd guiding the pack through uncharted territory. Radiant does not fear the absence of third-party investments and openly classifies itself as something other than an investment. Radiant core values of moral honesty aim to protect its users from potential wrongdoings by regulatory entities, acting against unregulated markets due to the temporary complexity of regulatory processes and understanding. Decentralization is the key and each user, each node, each voice and each person are the richness of the project: the final-user contribution._
 
-![Picture 3](RCR_230913c_-_Radiant_Community_Report_html_7944440da1e38a2.gif) ![Picture 2](RCR_230913c_-_Radiant_Community_Report_html_8fd5d48f5d757c03.gif) ![Picture 4](RCR_230913c_-_Radiant_Community_Report_html_6043de85b800185b.gif)
+![Picture 3](images/RCR_230913c_-_Radiant_Community_Report_html_7944440da1e38a2.gif) ![Picture 2](images/RCR_230913c_-_Radiant_Community_Report_html_8fd5d48f5d757c03.gif) ![Picture 4](images/RCR_230913c_-_Radiant_Community_Report_html_6043de85b800185b.gif)
 
-**R![Picture 1](RCR_230913c_-_Radiant_Community_Report_html_8ee1f4fb7bc63b3a.gif) adiant Coin Distribution Chart – 100% POW**
-
-  
-  
+**R![Picture 1](images/RCR_230913c_-_Radiant_Community_Report_html_8ee1f4fb7bc63b3a.gif) adiant Coin Distribution Chart – 100% POW**
 
   
   
@@ -405,7 +397,10 @@ _Radiant is us, Radiant is you; a survivor in a sea of sharks, a beacon of light
   
   
 
-![RXD_Emission.jpg](RCR_230913c_-_Radiant_Community_Report_html_1c4f3a2008adeb1.gif)  
+  
+  
+
+![RXD_Emission.jpg](images/RCR_230913c_-_Radiant_Community_Report_html_1c4f3a2008adeb1.gif)  
   
 
   
@@ -441,7 +436,7 @@ Commerce with blockchains and digital ledgers has come to rely on issuers and cu
 
 The original Bitcoin\[1\] protocol provides what is needed to create a peer-to-peer digital asset system, but lacks the ability to verify transaction histories and as a result cannot authenticate digital assets. Blockchains such as Bitcoin Cash (BCH) and Bitcoin Satoshi Vision (BSV) attempt to authenticate digital assets via trusted third parties called "oracles" which indexes the relevant transactions. Such solutions, however, prevent the possibility of advanced blockchain contracts since a trusted custodian is required. In order to solve the problem of digital asset authenticity, without using central parties, we introduce two novel methods that operate in constant O(1) time and space. The additional programming instructions creates a general purpose induction proof system. Users and applications need only to verify that the latest digital asset transfer is accepted into a block. Radiant is the first unspent transaction output (UTXO) blockchain that solves the key problems that prevented the development of advanced contracts on other blockchains such as Bitcoin, Cardano, and Dash. This breakthrough design revolutionizes what we imagined to be possible with blockchains; Radiant is a Turing Complete high performance layer one blockchain with no need for secondary layers.
 
-![Picture 3](RCR_230913c_-_Radiant_Community_Report_html_c1701e35a25abe26.gif)
+![Picture 3](images/RCR_230913c_-_Radiant_Community_Report_html_c1701e35a25abe26.gif)
 
 Positioning of Radiant relative to popular blockchains
 
@@ -454,7 +449,7 @@ Positioning of Radiant relative to popular blockchains
 1.  **Programming in Radiant**
     
 
-R![](RCR_230913c_-_Radiant_Community_Report_html_b29011710e578c3a.jpg) adiant uses a programming language called script inherited from Bitcoin, but adding advanced functionalities that allow it to be Turing complete: “RadiantScript”. To understand it well it is necessary to make a leap in time to the beginnings of Bitcoin. Bitcoin Script / OP\_codes / OP\_PUSHINPUTREF
+R![](images/RCR_230913c_-_Radiant_Community_Report_html_b29011710e578c3a.jpg) adiant uses a programming language called script inherited from Bitcoin, but adding advanced functionalities that allow it to be Turing complete: “RadiantScript”. To understand it well it is necessary to make a leap in time to the beginnings of Bitcoin. Bitcoin Script / OP\_codes / OP\_PUSHINPUTREF
 
 The key to everything.
 
@@ -471,7 +466,7 @@ The key to everything.
   
   
 
-![Picture 17](RCR_230913c_-_Radiant_Community_Report_html_c94f145b00e1c46c.gif)  
+![Picture 17](images/RCR_230913c_-_Radiant_Community_Report_html_c94f145b00e1c46c.gif)  
   
 
 1st [LINK](https://www.youtube.com/watch?v=-xoCoZGJ9AQ)
@@ -535,7 +530,7 @@ This identity will form the basis of the advanced usages outlined below.
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_91e2ee98e47e94ed.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_91e2ee98e47e94ed.jpg)
 
 Diagram 1. Token replay attack
 
@@ -549,7 +544,7 @@ There is an outstanding problem however: How can spending transactions ensure th
 
 Recall that an unspent transaction output (UTXO) has no persistent identity, but we can give a persistent identity by following the rule that a user may designate some transaction as a genesis minting event, where the outpoint stands in as the assetId or contractId. However, using this convention it is not sufficient because an attacker can copy one of the intermediate transaction spends and begin a new (albeit forgery) chain of signatures to spoof a coin class and pass it off. Any spending transaction are unable to differentiate between a real output that originated as a valid descendent versus the forgery from a false copy. What is required is a way to enforce global uniqueness that is unobtrusive and efficient to verify inside a spending script.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_58ed266bf59e3948.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_58ed266bf59e3948.jpg)
 
 Diagram 2. Token man-in-the-middle forgery attack
 
@@ -579,15 +574,15 @@ The only way an OP\_PUSHINPUTREF can first appear in an output is if the first o
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_71c462401ebc92d3.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_71c462401ebc92d3.jpg)
 
 Diagram 3. Minting transaction OP\_PUSHINPUTREF reference must match outpoint.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_4131107f5839775f.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_4131107f5839775f.jpg)
 
 Diagram 4. Transfer transaction OP\_PUSHINPUTREF reference must match one of the previous outputs scripts being spent.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_d08ab000495e8210.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_d08ab000495e8210.jpg)
 
 Diagram 5. Invalid TX with no matching previous output script or outpoint.
 
@@ -603,7 +598,7 @@ OP\_REQUIREINPUTREF / Require reference
 
 The OP\_REQUIREINPUTREF functions identically to OP\_PUSHINPUTREF except it does not pass on the reference identity to the output in which it appears. This is useful for demanding that at least one input is of a specific coin class — but without passing down the reference immediately.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_4f48c1a92d1ed47b.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_4f48c1a92d1ed47b.jpg)
 
 Diagram 6. OP\_REQUIREINPUTREF functions the same as OP\_PUSHINPUTREF but without pushing the reference to the current output.
 
@@ -626,7 +621,7 @@ OP\_DISALLOWPUSHINPUTREF / Disallow reference in output
 
 To disallow the use of a OP\_PUSHINPUTREF in an output, the OP\_DISALLOWPUSHINPUTREF may be used. This is a useful OP code for smart contracts which leave open the outputs to be used in various contexts, but allows the contract creator to restrict passing down a reference, for example in custom change outputs.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_ba488917b551e62.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_ba488917b551e62.jpg)
 
 Diagram 7. OP\_DISALLOWPUSHINPUTREF disallows usage of a specific reference.
 
@@ -652,7 +647,7 @@ OP\_DISALLOWPUSHINPUTREFSIBLING / Disallow reference in sibling outputs
 
 Similar to OP\_DISALLOWPUSHINPUTREF, disallow specific outputs in any sibling outputs for the specific reference. This effectively prohibits using a reference in more than one output and is a way to create a singleton outpoint. By using OP\_DISALLOWPUSHINPUTREFSIBLING in an output we can create a simple and powerful Non-Fungible Token (NFT) contract which functions with SIGHASH\_SINGLE signature flag.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_ad32242cad614cd7.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_ad32242cad614cd7.jpg)
 
 Diagram 8. OP\_DISALLOWPUSHINPUTREFSIBLING: Disallow usage of a specific reference in all other outputs than the one in which this instruction appears.
 
@@ -675,7 +670,7 @@ OP\_REFHASHDATASUMMARY\_UTXO / Push UTXO data summary
 
 Provides a summary of the contents of an output being spent in the current transaction. Takes the top element of the stack which is the index of the input being spent and then pushes the hash256 of the information about the UTXO being spent: hash256(<nValue><hash256(scriptPubKey)><numRefs><hash256(sorted\_list(pushInputRefs))>). During unlocking script evaluation, the relevant data of an UTXO is able to be accessed and incorporated into the logic.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_a8e46bdab8927040.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_a8e46bdab8927040.jpg)
 
 Diagram 9. OP\_REFHASHDATASUMMARY\_UTXO: Output coloring diagram
 
@@ -694,7 +689,7 @@ Diagram 9. OP\_REFHASHDATASUMMARY\_UTXO: Output coloring diagram
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_675d93751f2a5ac5.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_675d93751f2a5ac5.jpg)
 
 Diagram 10. OP\_REFHASHDATASUMMARY\_UTXO: Push to stack the summary of an input being spent.
 
@@ -713,7 +708,7 @@ This is very useful for building a compact fungible token accounting system as w
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_1a799b6d2231950e.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_1a799b6d2231950e.jpg)
 
 Diagram 11. OP\_REFHASHVALUESUM\_UTXOS: Push to stack the total sum of the inputs which match a specific reference hash
 
@@ -731,13 +726,13 @@ In the case of smart contracts, we wish to prove that a given transaction is val
 
 With an induction proof it is impossible to forge an intermediate transaction because the grand parent transaction will not be of the required origination.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_42d0fafe23926ffa.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_42d0fafe23926ffa.jpg)
 
 Diagram 12. Verify the parent and grand parent to identify forgery.
 
 This system is not practical however because each time the output is spent a full copy of the parent (and it's parent) transaction must be embedded to calculate the transaction identifier. This leads to a factorial, or exponential, explosion in transaction size. It is not practical since after only about a dozen spends, the transaction size starts to exceed 1 GB and continues growing exponentially.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_36f50c398890b84a.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_36f50c398890b84a.jpg)
 
 Diagram 13. Transaction Contents with Embedded Parents
 
@@ -780,7 +775,7 @@ By incrementing the nVersion field, we introduce a way to compress an entire tra
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_748770f5bf7a8cc7.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_748770f5bf7a8cc7.jpg)
 
 Diagram 15. Transaction Identifier Version 3 Preimages with Embedded Parents
 
@@ -864,15 +859,15 @@ With the OP\_PUSHINPUTREF and TxId Version 3 constructs, we are in a position to
 11.  **Non-Fungible Tokens (NFT)**
     
 
-**Definition:** A "Non-Fungible Token" is a uniquely-identified object in which it’s essential properties are conserved
+**Definition:** A "Non-Fungible Token" is a uniquely-identified object in which it’s essential properties are conserved
 
 We present a simple, yet powerful, design pattern called a Non-Fungible Token (NFT). Programs will recognize this by another name called a Singleton object. An NFT, or Singleton, guarantees that only one instance of an object can ever exist and is unique identified by a stable persistent identity. Most usages of the term Non-Fungible Token have centered around digital collectibles, however that need not be the case — the reason for that focus has to do with the high-gas fees on Ethereum and the speculative nature of digital artwork. In the Radiant blockchain, we use the term Non-Fungible Tokens to refer to a uniquely identifiable object, or colored coin, which maintains some essential properties in addition to being unambiguously traceable through the blockchain. This is a basic building block and design pattern that will appear in more complex contracts, and here we present a simple, yet very powerful, construction below to start.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_8a5c17267ba3ae4d.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_8a5c17267ba3ae4d.jpg)
 
 Diagram 17. Non-Fungible Token Design Overview.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_d1178eb654e7445.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_d1178eb654e7445.jpg)
 
 Diagram 18. Non-Fungible Token Output Design
 
@@ -881,7 +876,7 @@ Diagram 18. Non-Fungible Token Output Design
 
 Non-Fungible Token Pseudo-code:
 
-contract NFT {
+```contract NFT {
 
   
 
@@ -1028,6 +1023,7 @@ require(Tx.checkPreimageOpt\_(txPreimage));
 }
 
 }
+```
 
 Diagram 19. Non-Fungible Token Pseudocode
 
@@ -1037,13 +1033,13 @@ Diagram 19. Non-Fungible Token Pseudocode
 12.  **Accounts & Smart Contracts**
     
 
-**Definition:** An "Account" is an object that manages a wallet balance while maintaining an addressable stable unique identifier.
+**Definition:** An "Account" is an object that manages a wallet balance while maintaining an addressable stable unique identifier.
 
 One of the main difficulties in working with a UTXO-based blockchain is there is no protocol level concept of "wallet balance", and instead infrastructure providers and wallet services present a summary balance derived from the total value of all the individual outputs controlled by a key. Account-based blockchains also simplify specific types of problems and contracts, but trade-off performance and privacy to achieve it's aims.
 
 We present a simple design pattern to emulate accounts using one or more outputs which gives the user and developer a stable unique identifier across transactions in the blockchain. It is built using the Non-Fungible Token design pattern, and demonstrates that UTXO-based blockchains are perfectly equipped to emulate accounts with the same level of control, but with much higher performance characteristics.
 
-Recall that in the Non-Fungible Token design pattern, the stable identifier _ContractId_ (also sometimes referred to as _AssetId_) is derived from the outpoint of the minting transaction. The same ContractId is used as the public account identifier and can be treated as a wallet balance. We present below pseudo code for a smart contract that implements all the method associated with accounts: deposit, withdraw, changeOwner, and close the account.
+Recall that in the Non-Fungible Token design pattern, the stable identifier _ContractId_ (also sometimes referred to as _AssetId_) is derived from the outpoint of the minting transaction. The same ContractId is used as the public account identifier and can be treated as a wallet balance. We present below pseudo code for a smart contract that implements all the method associated with accounts: deposit, withdraw, changeOwner, and close the account.
 
 contract Account {
 
@@ -1569,7 +1565,7 @@ require(Tx.checkPreimageOpt\_(txPreimage));
 
 We have proposed a system for digital asset management without relying on trust. We started with the basic blockchain construction of coins made from digital signatures, which provides strong control of ownership. From the needed rules and incentives, we introduced two novel methods for authenticating and tracking digital assets in constant O(1) time and space. Both methods independently provide a general induction proof system which can encode any possible digital asset configuration. The system is Turing Complete within and across transaction boundaries, with unbounded scale, and never any need for secondary layers. Additionally we have presented three contract design patterns: Non-Fungible Token (NFT), Fungible Token (FT) and Account which emulating account based blockchains, using the UTXO based processing model. Radiant is a breakthrough design which provides the performance and parallelism benefits of an unspent transaction output (UTXO) blockchain, and with the programming sophistication of account-based blockchains, while maintaining ultra low fees and unbounded scale.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_da092ccd04db49a8.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_da092ccd04db49a8.jpg)
 
 15.  **References**
     
@@ -1655,7 +1651,7 @@ This means that Ethereum contracts can record and update variables, while the va
 
 Script is stateless, meaning it only uses the information contained within the locking and unlocking scripts themselves. This statelessness means that a Script can be deterministically validated on any machine. This gives increased performance and predictability, although it does limit the usefulness of the scripting language.
 
-![Shape3](RCR_230913c_-_Radiant_Community_Report_html_8115a21a557d69e1.gif)
+![Shape3](images/RCR_230913c_-_Radiant_Community_Report_html_8115a21a557d69e1.gif)
 
 The Induction proof system is the core of Radiant, which allows for no dependence on external machines such as EVM or redundant code within the chain when moving FT/NFT.
 
@@ -1680,7 +1676,7 @@ Colored coins (Custom digital assets) was always possible with the UTXO model. N
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_80a716693b0b74fd.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_80a716693b0b74fd.jpg)
 
   
   
@@ -2112,11 +2108,11 @@ Your/our safety is the first, absolute, priority, so remember well the following
 
 Interesting video: [https://www.youtube.com/watch?v=Kz-jPjMvIu4](https://www.youtube.com/watch?v=Kz-jPjMvIu4)
 
-![](RCR_230913c_-_Radiant_Community_Report_html_6bf838249a3a86a.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_6bf838249a3a86a.jpg)
 
 **CHAPTER** **V - INFOGRAPHICS & TWEETS** [**(****LEGEND****)**](#zzLEGEND)
 
-**5![chart radiant 0.4.JPG](RCR_230913c_-_Radiant_Community_Report_html_51f7dd027269d9e0.gif) .1 RADIANT COMPARISON CHART – POW/POS  
+**5![chart radiant 0.4.JPG](images/RCR_230913c_-_Radiant_Community_Report_html_51f7dd027269d9e0.gif) .1 RADIANT COMPARISON CHART – POW/POS  
 **  
   
 
@@ -2138,7 +2134,7 @@ Interesting video: [https://www.youtube.com/watch?v=Kz-jPjMvIu4](https://www.you
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_5c1511a1b26e61f8.jpg)  
+![](images/RCR_230913c_-_Radiant_Community_Report_html_5c1511a1b26e61f8.jpg)  
   
 
   
@@ -2163,7 +2159,7 @@ Interesting video: [https://www.youtube.com/watch?v=Kz-jPjMvIu4](https://www.you
 
 Powerful for Bitcoin, amazing for Radiant!
 
-![Picture 18](RCR_230913c_-_Radiant_Community_Report_html_599f4cc73962bdc1.gif)
+![Picture 18](images/RCR_230913c_-_Radiant_Community_Report_html_599f4cc73962bdc1.gif)
 
 5.3 Is Radiant solving the blockchain trilemma?
 
@@ -2185,24 +2181,24 @@ A very interesting paper describing the issue: [TheBlockchainTest.com](https://t
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_b9554f6a4f19c2dc.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_b9554f6a4f19c2dc.jpg)
 
 5.4 TheCryptoVigilante Report Extract over Radiant
 
 With their authorization, we can publish few screens describing the genesis of Radiant, by Attoshi. Very interesting reading.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_7ea97e21f8fa0cd9.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_7ea97e21f8fa0cd9.jpg)
 
-![](RCR_230913c_-_Radiant_Community_Report_html_58af7e45ee8bf893.jpg) ![](RCR_230913c_-_Radiant_Community_Report_html_242142de31d775f4.jpg) ![](RCR_230913c_-_Radiant_Community_Report_html_78675016541a17a8.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_58af7e45ee8bf893.jpg) ![](images/RCR_230913c_-_Radiant_Community_Report_html_242142de31d775f4.jpg) ![](images/RCR_230913c_-_Radiant_Community_Report_html_78675016541a17a8.jpg)
 
-![](RCR_230913c_-_Radiant_Community_Report_html_7deeb141afd004e2.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_7deeb141afd004e2.jpg)
 
   
   
 
 There are price predictions but you can find them registering in the TCV newsletter, by private access. Our interest was to share their extremely interesting Report, pointing to the main elements that make Radiant truly unique.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_a0535707a81569b2.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_a0535707a81569b2.jpg)
 
 **CHAPTER** **VI - RADIANT HISTORY & LINKS** [**(****LEGEND****)**](#zzLEGEND)
 
@@ -2383,7 +2379,7 @@ There are price predictions but you can find them registering in the TCV newslet
 *   Interesting Podcast with the main developer ATTOSHI, with Brittany Bitz:
     
 
-[https://www.youtube.com/watch?v=B-UWB7iC7O4](https://www.youtube.com/watch?v=B-UWB7iC7O4)![](RCR_230913c_-_Radiant_Community_Report_html_7bf79caac1f6bc0b.jpg)
+[https://www.youtube.com/watch?v=B-UWB7iC7O4](https://www.youtube.com/watch?v=B-UWB7iC7O4)![](images/RCR_230913c_-_Radiant_Community_Report_html_7bf79caac1f6bc0b.jpg)
 
 *   WALLETS
     
@@ -2520,7 +2516,7 @@ The intention is to setup the RADIANT DEVON and GAMEON as standalone events, com
   
   
 
-![ROADMAP.JPG](RCR_230913c_-_Radiant_Community_Report_html_e53dfe736ac452bc.gif)  
+![ROADMAP.JPG](images/RCR_230913c_-_Radiant_Community_Report_html_e53dfe736ac452bc.gif)  
   
 
   
@@ -2669,7 +2665,7 @@ A Mining Guide paragraph with pools, batches and wallet settings.
 
 A mention about the algo: SHA512526-D. Core heavy, but more balanced toward FPGA, against GPU, to the point that the RTX 4090 is almost competing with FPGA, devices way more expensive, rare and technically speaking way more efficient, on paper. In other core heavy algorithms the difference can be easily more than twice the one present in Radiant, and this is an important factor that might have an impact later on, when the RXD/USDT will grow organically, due to the limited number of FPGA compared to GPU. As shown below in red we see an example of the difficulty retargeting of Radiant: in red the hashrate, in blue the difficulty. Reactive increments but without monolithic blocks that can create issues. Other chains during the ETH merge had massive issues, this is not the case with Radiant.
 
-![](RCR_230913c_-_Radiant_Community_Report_html_93a231d917d71e5.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_93a231d917d71e5.png)
 
 BALANCED GPU & FPGA MINING - 100 % POW
 
@@ -2677,13 +2673,13 @@ SMART DIFFICULTY RETARGETING ALGO (ASERT DAA)
 
 **7.1 Entry-Level VideoCards**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_6fde1b95c3ce6a83.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_6fde1b95c3ce6a83.jpg)
 
 Nvidia, as it’s shown, is clearly having leadership in the entry level range. The GTX 1660 models are still showing strength, while the RTX 3060 are competing directly with the AMD RX 6600 XT, boards that can be overclocked significantly and that do not possess the LHR limitation ( element that in certain loads might create issues with multiple algorithms). In the top of the chart we still find the RTX 2060, a model that has proven itself during the last years as a noteworthy mining upgrade.
 
 **7.2 Mid-Range VideoCards**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_25c0d7d7106900bf.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_25c0d7d7106900bf.jpg)
 
   
   
@@ -2692,7 +2688,7 @@ In this section Nvidia is taking the lead, with the RTX 3060 Ti that is trading 
 
 **7.3 Enthusiast-Range VideoCards**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_da4c847764d6bbcc.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_da4c847764d6bbcc.jpg)
 
   
   
@@ -2704,7 +2700,7 @@ In the last segment we can clearly see the Nvidia dominance. AMD cannot compete,
 
 **7.4 Field Programmable Gate Arrays - FPGA**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_c08fc29c20fa5910.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_c08fc29c20fa5910.jpg)
 
   
   
@@ -2734,14 +2730,14 @@ In the coming Chapters, comparisons! For visualization and data standardization 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_e7da6c2c5287ee5e.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_e7da6c2c5287ee5e.jpg)
 
 Clear RTX 4090 Dominance. It follows a simulation of a GPU Farm up to 20KWh of power Consumption:
 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_e78b927f650a9c88.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_e78b927f650a9c88.jpg)
 
   
   
@@ -2766,7 +2762,7 @@ We continue with the 6x FPGA system chart. Please do note that FPGA can be linke
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_faef1d1196a16314.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_faef1d1196a16314.jpg)
 
   
   
@@ -2789,7 +2785,7 @@ But what about a FPGA Farm up to 20KWh? Here it is:
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_e99d0ec69ad6a01d.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_e99d0ec69ad6a01d.jpg)
 
   
   
@@ -2804,7 +2800,7 @@ It follows the All-Out-War between FPGA and GPU. Radiant is one of the few core-
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_4dea05d3cbfac337.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_4dea05d3cbfac337.jpg)
 
   
   
@@ -2816,7 +2812,7 @@ This chart is showing the Maximum hashrate possible with a power consumption of 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_60e445110f08a9c1.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_60e445110f08a9c1.png)
 
   
   
@@ -2828,7 +2824,7 @@ This is a visual representation of what these numbers mean, and how big it could
 
 Entry Level
 
-![](RCR_230913c_-_Radiant_Community_Report_html_50d2dacd11cc4972.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_50d2dacd11cc4972.jpg)
 
   
   
@@ -2843,7 +2839,7 @@ The RTX 4070Ti leads the way, and it’s very sad to see that AMD completely FAI
 
 Heavy Lifters
 
-![](RCR_230913c_-_Radiant_Community_Report_html_6a99de2eb5a9cc72.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_6a99de2eb5a9cc72.jpg)
 
   
   
@@ -2879,7 +2875,7 @@ In the crypto mining scene it is important to distribute the hashrate. You can c
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_3eabca19dca87718.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_3eabca19dca87718.jpg)
 
   
   
@@ -2896,7 +2892,7 @@ To mine of vipor, as an example, follow these steps:
 2.  Choose a wallet, Electron or Chainbow
     
 
-![](RCR_230913c_-_Radiant_Community_Report_html_feb30e88c5185d98.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_feb30e88c5185d98.jpg)
 
 Samara is currently NOT UPDATED, so avoid it. Do note that you can create a wallet and import your seeds, or restore them, in Chainbow or electron, do not panic if you have issues with Samara. Hopefully it will be updated in the future. Hint: yes, web based. More to come later on.
 
@@ -2904,7 +2900,7 @@ Link to Electron: [https://github.com/RadiantBlockchain/electron-radiant/release
 
 Link to Chainbow: [https://chainbow.io/](https://chainbow.io/) (screenshot below)
 
-![](RCR_230913c_-_Radiant_Community_Report_html_1eaffa2970898910.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_1eaffa2970898910.jpg)
 
 3.  Choose a miner and configure the batch (Ubuntu, windows requires few modifications)
     
@@ -2950,7 +2946,7 @@ The development process is the base of everything that is long lasting, mature a
 
 There are multiple pathways that could lead to the next expansion phase, and this is in line with the new multi-year roadmap, that will be object of further developments and brainstorming events, publicly. We are here to put the setting stone of the first Radiant Development Contests (RDC)
 
-![poll1.JPG](RCR_230913c_-_Radiant_Community_Report_html_fd284fd97b486a7.gif)
+![poll1.JPG](images/RCR_230913c_-_Radiant_Community_Report_html_fd284fd97b486a7.gif)
 
 **8.1 Some of the development options**
 
@@ -3039,26 +3035,26 @@ In this paragraph we will find a Brief preview of Photonic, a Radiant web based 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_d47acde170355638.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_d47acde170355638.png)
 
 **Landing page**
 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_209fe4408f7de06a.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_209fe4408f7de06a.png)
 
 **Details, stats (Gaming-wise, noteworthy)**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_f2ab3019e7073f83.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_f2ab3019e7073f83.png)
 
 **Wallet and Seed**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_f0a48ba0f4112362.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_f0a48ba0f4112362.png)
 
 **NFT creation page**
 
-![](RCR_230913c_-_Radiant_Community_Report_html_2c8d4bf20ebb1aef.png)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_2c8d4bf20ebb1aef.png)
 
 **Wallet recovery page, from the seed**
 
@@ -3080,10 +3076,10 @@ It is currently under internal testing for bugfixing, core updates and developme
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_76801eea9b19369b.jpg)  
+![](images/RCR_230913c_-_Radiant_Community_Report_html_76801eea9b19369b.jpg)  
   
 
-T![FjhY-tmWQAEMvL1.png](RCR_230913c_-_Radiant_Community_Report_html_bf2f5d221c884784.gif) o the Nay-Sayers, some wishful thinking
+T![FjhY-tmWQAEMvL1.png](images/RCR_230913c_-_Radiant_Community_Report_html_bf2f5d221c884784.gif) o the Nay-Sayers, some wishful thinking
 
   
   
@@ -3675,7 +3671,7 @@ Given the complexity of the single user translation, this should be a community 
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_44d535aa90cd8209.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_44d535aa90cd8209.jpg)
 
   
   
@@ -3758,7 +3754,7 @@ In the following chart the Risk Reward factor of Radiant, compared to other succ
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_ee8d645b73dc7076.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_ee8d645b73dc7076.jpg)
 
   
   
@@ -3788,7 +3784,7 @@ Interesting numbers. The scale of colors expresses the complexity to reach those
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_d71ff0ab7e42c0de.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_d71ff0ab7e42c0de.jpg)
 
   
   
@@ -3803,7 +3799,7 @@ The decentralization is a fundamental factor, and this is why it is important th
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_6db164d9b727a98a.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_6db164d9b727a98a.jpg)
 
   
   
@@ -3813,7 +3809,7 @@ The decentralization is a fundamental factor, and this is why it is important th
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_92b5227ba32c72c1.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_92b5227ba32c72c1.jpg)
 
 Cryptocurrencies are Volatile-Assets; they are possessing, more often in its initial stage of development small market capitalizations and this can affect in a very positive or negative way its market counter value to USD. Please understand that there might be the absence of liquidity, and that Radiant is not meant as an investment, as Bitcoin was not created for this purpose. Bitcoin too is not meant as an investment since its inception, it is a technology product, that has a ratio of exchange with FIAT currencies, and its up to the user to make trading, using it as a store of value. If you intend to invest in cryptocurrencies, do note that you advance what you can afford to lose.
 
@@ -3826,7 +3822,7 @@ Cryptocurrencies are Volatile-Assets; they are possessing, more often in its ini
 4.  UNDERSTAND that in Radiant there is no expectation of profits from anyone except yourself. Radiant is a Community Led / Community Owned piece of technology having a ratio of exchange with FIAT, convertible into different FIAT and CRYPTO assets. If you want the project to grow, work on it. If you complain expecting someone else to work for you, if you are promoting listings so you can dump upon other community members that are investing their time and energy for decentralized projects, this is not your place.
     
 
-![](RCR_230913c_-_Radiant_Community_Report_html_5732c6440f484ccf.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_5732c6440f484ccf.jpg)
 
 “Venturing into Bitcoin and cryptocurrencies is like sailing in a stormy sea”
 
@@ -3898,7 +3894,7 @@ Join Radiant on DISCORD: [https://discord.com/invite/radiantblockchain](https://
   
   
 
-![](RCR_230913c_-_Radiant_Community_Report_html_2fdef48e47d173c.jpg)
+![](images/RCR_230913c_-_Radiant_Community_Report_html_2fdef48e47d173c.jpg)
 
 (One of the wonderful Deathmumi creations)
 
